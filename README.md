@@ -10,6 +10,7 @@ Students accessing Edmonton Public Schools Technology and Information Management
     - IT Essentials
     - Certified Network Analyst I (CCNA I)
     - Certified Network Analyst II (CCNA II)
+  - Curriculum focus towards end-device support and repair in home-based or small business networks
 - Finding a career path to do what we want is not always an easy solution with education or searching for job opportunities.
 - Hearing others' stories often helps us answer questions we do not know exist yet and not imagine how these questions apply to us.
 
@@ -35,9 +36,9 @@ introductory power point</a>
    - Accessible to Campus EPSB students with Industry-level certification and Networking Practicum job performance feedback and reference
    - A teacher or an ambassador should be present to ask questions and role model soft skill of listening to information and searching for more information
 
-4. Cyber Security Discussions
+4. Cyber Security Discussions, currently details are being worked out and starting details are below
    - Note: focus of this tour or conversation is still being worked out
-   - "How does Cyber Security group differ in EPSB compared to corporate example?"
+   - "How does this EPSB Cyber Security group differ from a corporate example?"
    - "What are some of the topics of cyber security that will help me take the next step in my career towards cyber security?"
 
 4. *Circle of Trust*, David Callander
@@ -52,7 +53,9 @@ introductory power point</a>
 
 ## Getting Ready for the Day
 
-Powerful Questions Lessons: What to Ask Central Staff Personal
+"Powerful Questions" <a href="http://www.learnalberta.ca/content/ssapq/index.html">
+Lesson</a>: What to Ask Central Staff Personal
+- Are you also ready to talk in front of others?
 
 Set Groups
 - Talkative students
