@@ -9,8 +9,8 @@ Students accessing Edmonton Public Schools Technology and Information Management
     - Introduction to Cyber Security
     - IT Essentials
     - Certified Network Analyst I (CCNA I)
-    - Certified Network Analyst II (CCNA II) 
-- Finding a career path to do what we want is not always an easy solution.
+    - Certified Network Analyst II (CCNA II)
+- Finding a career path to do what we want is not always an easy solution with education or searching for job opportunities.
 - Hearing others' stories often helps us answer questions we do not know exist yet and not imagine how these questions apply to us.
 
 The Field Trip Experience
