@@ -35,7 +35,7 @@ introductory power point</a>
    - See Example Questions below, <a href="https://github.com/MercersKitchen/EPSB-Networking-Field-Trip#example-questions-from-central-staff-to-campus-epsb-students">
    here</a> and <a href="https://github.com/MercersKitchen/EPSB-Networking-Field-Trip#example-questions-from-campus-epsb-students-to-central-staff">
    here</a>
-   - A Special Thank-you to <a href="">
+   - A Special Thank-you to <a href="https://docs.google.com/document/d/1eWpQQnKdg12dOSDbT4bDUCDHMehjRRMcCJF_EtEK69g/edit?usp=sharing">
    these people</a>
 
 ---
@@ -46,7 +46,7 @@ Powerful Questions Lessons: What to Ask Central Staff Personal
 
 Set Groups
 - Talkative students
-- Risk Takers
+- Risk Takers and students skilled with communication soft skills
 - Note: Group going into the Data Center should be 5 - 7 Maximum
 
 #### Example Questions from Central Staff to Campus EPSB Students
@@ -116,8 +116,8 @@ Focusing General Interest Career Questions
 - Are there many females in this career pathway?
 - What are some recommendations to navigate the difficulties in this career pathway?
 
+## Tour Groups TBA
 
-## Tour Groups
 # Google Drive Based Backups and Information
 
 Back up <a href="https://drive.google.com/drive/folders/1dq30n6y9CHedhBOKr_EPjd8PCA5_JGIo">
@@ -129,10 +129,10 @@ Images from the <a href="https://drive.google.com/drive/folders/1wwm6x6fNtmGSNiL
 TIM's Career Pathway Day in the CFE 2019, <a href="https://docs.google.com/presentation/d/1pkaXRmsMOqWlEkbydus2Rp2ItSp-LglOFv4Ep7GQeg8/edit?ts=5cfabe28#slide=id.g35f391192_09">
 PowerPoint</a>
 
-Schedule for Field Trip, <href="https://docs.google.com/document/d/1sS9-bPHxvn9oOKYaf8PcQr3Cl6j7o5s5N7IqKPsR-wM/edit?ts=5cfa9bab">
+Schedule for Field Trip, <a href="https://docs.google.com/document/d/1sS9-bPHxvn9oOKYaf8PcQr3Cl6j7o5s5N7IqKPsR-wM/edit?ts=5cfa9bab">
 doc</a>
 
-Tabletop Questions <href="https://docs.google.com/document/d/16TNm040L0xy9xcW2lp6CF8zIh0oTCGe9PWVIubEm7MY/edit?ts=5cfaab9b">
+Tabletop Questions <a href="https://docs.google.com/document/d/16TNm040L0xy9xcW2lp6CF8zIh0oTCGe9PWVIubEm7MY/edit?ts=5cfaab9b">
 Handout</a>
 
 ---
