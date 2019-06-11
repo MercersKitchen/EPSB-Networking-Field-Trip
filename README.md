@@ -5,6 +5,11 @@ Students accessing Edmonton Public Schools Technology and Information Management
 
 **Purpose**: Campus EPSB Computer Science and Networking Students touring EPSB's Data Center, Help Desk, and Programmer's Desks while using communication soft skills to access a wealth of information about career pathways students next steps after earning industry-level certification in Cyber Security, It Essentials, and Computer Networking Analyst I & II (CCNA I & II).
 - Students are good at problem solving when computers do not do what we want.
+  - Cisco Academy Certifications in
+    - Introduction to Cyber Security
+    - IT Essentials
+    - Certified Network Analyst I (CCNA I)
+    - Certified Network Analyst II (CCNA II) 
 - Finding a career path to do what we want is not always an easy solution.
 - Hearing others' stories often helps us answer questions we do not know exist yet and not imagine how these questions apply to us.
 
@@ -29,6 +34,11 @@ introductory power point</a>
 3. Help Desk, Entry-level job for career with EPSB, Patrick Miller
    - Accessible to Campus EPSB students with Industry-level certification and Networking Practicum job performance feedback and reference
    - A teacher or an ambassador should be present to ask questions and role model soft skill of listening to information and searching for more information
+
+4. Cyber Security Discussions
+   - Note: focus of this tour or conversation is still being worked out
+   - "How does Cyber Security group differ in EPSB compared to corporate example?"
+   - "What are some of the topics of cyber security that will help me take the next step in my career towards cyber security?"
 
 4. *Circle of Trust*, David Callander
    - **Purpose**: Campus EPSB Students ask questions to explore topics that will help them take the next step in their career pathway
