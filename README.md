@@ -32,9 +32,11 @@ ideas</a>
    - A teacher or an ambassador should be present to ask questions and role model soft skill of listening to information and searching for more information
 
 4. *Circle of Trust*
-   - See Example Questions below, <a href="">
-   here</a> and <a href="">
+   - **Purpose**: Campus EPSB Students ask questions to explore topics that will help them take the next step in their career pathway
+   - See Example Questions below, <a href="https://github.com/MercersKitchen/EPSB-Networking-Field-Trip#example-questions-from-central-staff-to-campus-epsb-students">
+   here</a> and <a href="https://github.com/MercersKitchen/EPSB-Networking-Field-Trip#example-questions-from-campus-epsb-students-to-central-staff">
    here</a>
+
 ---
 
 ## Getting Ready for the Day
