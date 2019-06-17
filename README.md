@@ -159,5 +159,7 @@ Google Search</a> by Mr. Mercer
 Job Article</a> from David Callander
 - Another Future Job Article from <a href="https://futuristspeaker.com/business-trends/162-future-jobs-preparing-for-jobs-that-dont-yet-exist/">
 Mr. Mercer's Job Search</a>, see above
+- Article: <a href="https://www.forbes.com/sites/amitchowdhry/2018/09/18/artificial-intelligence-to-create-58-million-new-jobs-by-2022-says-report/#2d12fa154d4b">
+AI to Create New Jobs</a>
 
 ---
