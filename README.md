@@ -152,5 +152,12 @@ Handout</a>
 
 # To Include
 
+Notable Conversation Topics from 2019
+- An Example <a href="https://www.google.com/search?q=future+jobs+that+don%27t+exist+today&rlz=1C1GCEU_en&oq=future+jobs+that+do+not+exist+&aqs=chrome.1.69i57j0.8665j1j7&sourceid=chrome&ie=UTF-8">
+Google Search</a> by Mr. Mercer
+- Future <a href="https://www.monster.com/career-advice/article/cool-future-jobs">
+Job Article</a> from David Callander
+- Another Future Job Article from <a href="https://futuristspeaker.com/business-trends/162-future-jobs-preparing-for-jobs-that-dont-yet-exist/">
+Mr. Mercer's Job Search</a>, see above
 
 ---
